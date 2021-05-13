@@ -430,6 +430,7 @@ h6,
 .lead {
   font-size: 1.25rem;
   font-weight: 500;
+  text-align: justify;
 }
 
 .display-1 {
@@ -10744,7 +10745,7 @@ header.masthead.bg-primary.text-white.text-center {
 }
 
 .bg-primary {
-  background-color: #ffa571 !important;
+  background-color: #f4a261 !important;
 }
 
 img.masthead-avatar.mb-5 {
