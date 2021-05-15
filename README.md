@@ -1,4 +1,4 @@
-# TEAM B Website for the Reading in the Philippine History 
+# TEAM B Website for the Reading in the Philippine History - https://teamb-rph.netlify.app
 
 ## About 
 
